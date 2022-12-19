@@ -1,0 +1,3 @@
+Fish{nickName='Dory', tail=1, legs=0, skin='scales', owner='Egor'}
+Octopus{nickName='Gery', tail=0, legs=8, skin='derma', owner='Georgiy'}
+Pinguin{nickName='Lord', tail=1, legs=2, skin='plumage', owner='Denis'}
